@@ -31,4 +31,3 @@ void PORTD_IRQHandler(void) {
 	PORTD->ISFR = 0xffffffff;
 	DEBUG_PORT->PCOR = MASK(DBG_ISR_POS);
 }
-// *******************************ARM University Program Copyright © ARM Ltd 2013*************************************   
