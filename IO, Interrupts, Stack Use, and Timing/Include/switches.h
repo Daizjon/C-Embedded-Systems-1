@@ -12,4 +12,4 @@ extern void init_switch(void);
 extern volatile unsigned count;
 
 #endif
-// *******************************ARM University Program Copyright © ARM Ltd 2013*************************************   
+
