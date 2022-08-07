@@ -14,4 +14,4 @@ void init_debug_signals(void) {
 	/* Clear output signals initially */
 	PTB->PCOR |= MASK(DBG_ISR_POS) | MASK(DBG_MAIN_POS);
 }
-// *******************************ARM University Program Copyright © ARM Ltd 2013*************************************   
+  
