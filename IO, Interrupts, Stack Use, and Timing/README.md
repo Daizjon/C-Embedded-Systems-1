@@ -1,5 +1,8 @@
 Works with I/O, Interrupts, Stack Use, and Timing <br/>
 
+***The main.c file is the completed version of this project*** <br/>
+To see other files and such as the system info as well as the early uncompleted stages check out the source and include folders.<br/>
+
 Hardware bill of materials (beyond NXP FRDM-KL25Z and breadboard): <br/>
 • 3x Momentary Switch <br/>
 • 3x 1uF Capacitor (This is optional. You may use one for each switch if available) <br/> <br/>
