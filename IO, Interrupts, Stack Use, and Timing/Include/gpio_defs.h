@@ -10,4 +10,4 @@
 #define DEBUG_PORT PTB
 
 #endif
-// *******************************ARM University Program Copyright © ARM Ltd 2013*************************************   
+  
