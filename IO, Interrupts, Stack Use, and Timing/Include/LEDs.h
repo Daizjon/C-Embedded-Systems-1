@@ -13,4 +13,3 @@ void toggle_RGB_LEDs(unsigned int red_on, unsigned int green_on, unsigned int bl
 
 #endif 
 
-// *******************************ARM University Program Copyright © ARM Ltd 2013*************************************   
