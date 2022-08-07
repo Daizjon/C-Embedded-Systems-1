@@ -50,5 +50,4 @@ void toggle_RGB_LEDs(unsigned int red_tog, unsigned int green_tog, unsigned int 
 	if (blue_tog) {
 			PTD->PTOR = MASK(BLUE_LED_POS);
 	}	
-}	
-// *******************************ARM University Program Copyright © ARM Ltd 2013*************************************   
+}	 
